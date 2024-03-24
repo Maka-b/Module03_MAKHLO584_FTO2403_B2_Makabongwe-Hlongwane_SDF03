@@ -1,3 +1,6 @@
+# Loom Link
+   https://www.loom.com/share/118ed0fb4c9f4235afbdce7db2ce9efe?sid=350f8945-c1fa-42d2-80af-329c40da5e2b
+
 # [SDF03]: Your First GitHub Repo
 
 This project is designed for beginners to get hands-on experience with version control using Git and GitHub. By completing this project, students will learn how to fork a repository, make changes, commit these changes, and push them back to the repository. This practical exercise will also include updating personal information and images in a simple HTML page, providing a basic understanding of web development alongside version control skills.
